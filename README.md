@@ -11,3 +11,12 @@
 - `linspace()` for evenly spaced values  
 - `reshape()` for changing array shape  
 - `flatten()` and `ravel()` to convert 2D arrays into 1d
+
+# day 3:
+- array indexing and slicing 
+ # learn-
+- NumPy Indexing
+- Array Slicing
+- Accessing elements in 1D arrays
+- Accessing rows and columns in 2D arrays
+- Extracting sub-matrices
