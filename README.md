@@ -20,3 +20,13 @@
 - Accessing elements in 1D arrays
 - Accessing rows and columns in 2D arrays
 - Extracting sub-matrices
+
+# day 4:
+- array operations
+# learn-
+## Topics Covered
+- Element-wise operations
+- Scalar operations
+- Mathematical functions
+- Aggregation functions
+- Axis operations in matrices
