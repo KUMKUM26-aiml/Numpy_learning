@@ -30,3 +30,12 @@
 - Mathematical functions
 - Aggregation functions
 - Axis operations in matrices
+
+# day 5:
+- Implemented NumPy broadcasting operations
+# learn-
+## topics Covered
+- NumPy Broadcasting
+- Operations between arrays of different shapes
+- Scalar broadcasting
+- Row and column broadcasting
