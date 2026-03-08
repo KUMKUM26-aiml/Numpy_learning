@@ -39,3 +39,13 @@
 - Operations between arrays of different shapes
 - Scalar broadcasting
 - Row and column broadcasting
+
+# day 6-
+- boolean masking and conditional filtering
+# learn-
+# topics covered
+- Boolean masking
+- Conditional filtering
+- Replacing values using conditions
+- Multiple condition filtering
+- Boolean operations in NumPy arrays
