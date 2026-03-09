@@ -49,3 +49,14 @@
 - Replacing values using conditions
 - Multiple condition filtering
 - Boolean operations in NumPy arrays
+
+# day 7-
+- random number generation examples
+# learn-
+## Topics Covered
+- NumPy random module
+- Generating random numbers
+- Random integers
+- Random selection from arrays
+- Shuffling arrays
+- Normal distribution
