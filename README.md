@@ -60,3 +60,14 @@
 - Random selection from arrays
 - Shuffling arrays
 - Normal distribution
+
+# day 8-
+- linear algebra operations
+# learn-
+## topics covered
+- Matrix multiplication
+- Matrix transpose
+- Determinant calculation
+- Matrix inverse
+- Eigenvalues and eigenvectors
+
