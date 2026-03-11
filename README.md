@@ -71,3 +71,13 @@
 - Matrix inverse
 - Eigenvalues and eigenvectors
 
+# day 9-
+ stacking and splitting array
+# learn-
+## topics covered
+- Vertical stacking (vstack)
+- Horizontal stacking (hstack)
+- Column stacking
+- Splitting arrays
+- Splitting 2D matrices
+
